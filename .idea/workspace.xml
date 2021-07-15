@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a677cc15-5de6-4ba5-8700-b6642860bf05" name="shardingsphere" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+      <option value="repository" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="localRepository" value="$USER_HOME$/maven-repository" />
+        <option name="mavenHome" value="$USER_HOME$/Downloads/java_tools/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="$USER_HOME$/Downloads/java_tools/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1vIR2jGJuqyxRyCyOpKWfC18TAR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/onedb" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/onedb" />
+      <recent name="$PROJECT_DIR$/onedb/src/main/java" />
+      <recent name="$PROJECT_DIR$/onedb/src/main/java/com/lixiunan/onedb" />
+      <recent name="$PROJECT_DIR$/onedb/src/main" />
+      <recent name="$PROJECT_DIR$/onedb/src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lixiunan.twodbstandard.algorithm" />
+      <recent name="mapper" />
+      <recent name="com.lixiunan.twodbstandard.mapper" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TwodbStandardApplicationTests.queryDataByRang">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwodbApplicationTests.queryDataById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="twodb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lixiunan.twodb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lixiunan.twodb" />
+      <option name="MAIN_CLASS_NAME" value="com.lixiunan.twodb.TwodbApplicationTests" />
+      <option name="METHOD_NAME" value="queryDataById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwodbApplicationTests.queryDataBySort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="twodb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lixiunan.twodb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lixiunan.twodb" />
+      <option name="MAIN_CLASS_NAME" value="com.lixiunan.twodb.TwodbApplicationTests" />
+      <option name="METHOD_NAME" value="queryDataBySort" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwodbStandardApplicationTests.addOrderToDB" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="twodb-standard" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lixiunan.twodbstandard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lixiunan.twodbstandard" />
+      <option name="MAIN_CLASS_NAME" value="com.lixiunan.twodbstandard.TwodbStandardApplicationTests" />
+      <option name="METHOD_NAME" value="addOrderToDB" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwodbStandardApplicationTests.queryDataById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="twodb-standard" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lixiunan.twodbstandard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lixiunan.twodbstandard" />
+      <option name="MAIN_CLASS_NAME" value="com.lixiunan.twodbstandard.TwodbStandardApplicationTests" />
+      <option name="METHOD_NAME" value="queryDataById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwodbStandardApplicationTests.queryDataByRang" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="twodb-standard" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lixiunan.twodbstandard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lixiunan.twodbstandard" />
+      <option name="MAIN_CLASS_NAME" value="com.lixiunan.twodbstandard.TwodbStandardApplicationTests" />
+      <option name="METHOD_NAME" value="queryDataByRang" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnedbApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="onedb" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lixiunan.onedb.OnedbApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RwsplittingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rwsplitting" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lixiunan.rwsplitting.RwsplittingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwodbApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="twodb" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lixiunan.twodb.TwodbApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwodbStandardApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="twodb-standard" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lixiunan.twodbstandard.TwodbStandardApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TwodbStandardApplicationTests.queryDataByRang" />
+        <item itemvalue="JUnit.TwodbStandardApplicationTests.queryDataById" />
+        <item itemvalue="JUnit.TwodbStandardApplicationTests.addOrderToDB" />
+        <item itemvalue="JUnit.TwodbApplicationTests.queryDataById" />
+        <item itemvalue="JUnit.TwodbApplicationTests.queryDataBySort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a677cc15-5de6-4ba5-8700-b6642860bf05" name="Default Changelist" comment="" />
+      <created>1626247410936</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626247410936</updated>
+      <workItem from="1626247412271" duration="4482000" />
+      <workItem from="1626263182953" duration="1998000" />
+      <workItem from="1626325251386" duration="11714000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$/shardingspheredemo" />
+    </ignored-roots>
+  </component>
+</project>
