@@ -7,7 +7,7 @@ import java.math.BigInteger;
 import java.util.Collection;
 
 /**
- * @Description : TODO
+ * @Description : TODO 自己实现分库策略
  * @Author : lixiunan
  * @Date : 2021/7/15
  **/

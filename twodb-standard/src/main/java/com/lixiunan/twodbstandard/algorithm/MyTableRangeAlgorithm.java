@@ -7,7 +7,7 @@ import java.util.Arrays;
 import java.util.Collection;
 
 /**
- * @Description : TODO
+ * @Description : TODO 定制范围查找时分表查找策略
  * @Author : lixiunan
  * @Date : 2021/7/15
  **/
