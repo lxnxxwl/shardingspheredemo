@@ -22,6 +22,10 @@
         <module>onedb</module>
         <module>twodb</module>
         <module>twodb-standard</module>
+        <module>twodb-complex</module>
+        <module>custom-id-generation</module>
+        <module>rwsplitting</module>
+        <module>twodb-hint</module>
     </modules>
 
     <dependencies>
